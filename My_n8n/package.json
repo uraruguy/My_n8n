@@ -1,0 +1,13 @@
+{
+  "name": "my-n8n-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx n8n"
+  },
+  "dependencies": {
+    "n8n": "latest"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
